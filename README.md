@@ -13,4 +13,5 @@ This repository is a curated collection of Jupyter notebooks representing the pr
 - **Taxi Demand Prediction:** Forecasting taxi demand in urban areas using time series analysis.
 - **Toxic Text Identification:** Natural Language Processing (NLP) to identify and filter toxic comments.
 - **Trends for Computer Games:** Analysis of trends in computer game popularity and sales.
+
 Each notebook is complete with data exploration, preprocessing, model building, evaluation, and a discussion of results. The datasets directory contains all the data used for these analyses.
